@@ -1,0 +1,18 @@
+.notes{
+    background-color: aliceblue;
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+}
+.main{
+    width: 400px;
+    height: 400px;
+}
+textArea{
+    background-color: rgb(221, 206, 185);
+    width: 400px;
+    height: 400px;
+}
+.hidden{
+    display: none;
+}
